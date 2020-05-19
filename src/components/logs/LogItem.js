@@ -13,7 +13,7 @@ const LogItem = (props) => {
             log.attention ? "red-text" : "blue-text"
           }`}
         >
-          {log.message}
+          {log.msg}
         </a>
         <br />
         <span className='grey-text'>

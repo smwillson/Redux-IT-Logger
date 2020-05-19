@@ -1,25 +1,39 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "busted a hard drive",
-      "attention": false,
-      "date": "05-13-2020",
-      "tech": "Sam Smith"
-    },
-    {
-      "id": 2,
-      "message": "worstation not connecting to vpn",
+      "msg": "Wtach for error",
       "attention": true,
-      "date": "05-13-2020",
-      "tech": "Haru Maru"
+      "tech": "Haru Maru",
+      "date": "2020-05-19T21:03:51.174Z",
+      "id": 1
     },
     {
-      "id": 3,
-      "message": "formatted hard drive ws 123",
+      "msg": "Hard drive failed",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2020-05-19T21:04:22.713Z",
+      "id": 2
+    },
+    {
+      "msg": "test",
+      "attention": true,
+      "tech": "Haru Maru",
+      "date": "2020-05-19T21:05:24.632Z",
+      "id": 3
+    },
+    {
+      "msg": "45345",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2020-05-19T21:07:32.251Z",
+      "id": 4
+    },
+    {
+      "msg": "ello",
       "attention": false,
-      "date": "05-13-2020",
-      "tech": "John Doe"
+      "tech": "John Doe",
+      "date": "2020-05-19T21:20:14.048Z",
+      "id": 5
     }
   ],
   "techs": [

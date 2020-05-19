@@ -23,6 +23,11 @@ export default (state = intialState, action) => {
       return {
         ...state,
         logs: action.payload,
+      };
+    case ADD_LOG:
+      return {
+        ...state,
+        logs: [action.payload, ...state.logs],
         loading: false,
       };
     case SET_LOADING:
