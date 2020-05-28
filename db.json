@@ -1,11 +1,11 @@
 {
   "logs": [
     {
-      "msg": "Wtach for error",
+      "id": 1,
+      "msg": "Watch for error",
       "attention": true,
       "tech": "Haru Maru",
-      "date": "2020-05-19T21:03:51.174Z",
-      "id": 1
+      "date": "2020-05-28T18:04:10.245Z"
     },
     {
       "msg": "Hard drive failed",
@@ -15,11 +15,11 @@
       "id": 2
     },
     {
+      "id": 3,
       "msg": "test",
-      "attention": true,
-      "tech": "Haru Maru",
-      "date": "2020-05-19T21:05:24.632Z",
-      "id": 3
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2020-05-28T18:04:28.246Z"
     },
     {
       "msg": "45345",
@@ -27,13 +27,6 @@
       "tech": "John Doe",
       "date": "2020-05-19T21:07:32.251Z",
       "id": 4
-    },
-    {
-      "msg": "ello",
-      "attention": false,
-      "tech": "John Doe",
-      "date": "2020-05-19T21:20:14.048Z",
-      "id": 5
     }
   ],
   "techs": [
